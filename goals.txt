@@ -1,0 +1,2 @@
+1. The ability to add a comment
+2. Displaying comments on a post 
