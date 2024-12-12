@@ -1,2 +1,16 @@
-1. The ability to add a comment
-2. Displaying comments on a post 
+1. The ability to add a comment - DONE
+2. Displaying comments on a post - DONE
+3. Add a delete button and delete ability to each comment which is only visible to the user who made the post
+  - What will we need?
+    > the user who created the comment's ID - DONE
+    > a button - DONE
+    > a conditional statement in the view that compares the logged in user with the comment user ID
+    > need a controller with a delete method and a route to that controller - DONE
+    > a route to the controller - DONE
+    >DB storage of the user who created the comment - DONE 
+
+4. Add the username associated with each comment to the comment text
+  - What will we need?
+
+5. Add the ability to like comments 
+  - What will we need?
